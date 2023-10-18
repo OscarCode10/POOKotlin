@@ -1,4 +1,4 @@
-package com.oscarcode10.pookotlin
+package com.oscarcode10.pookotlin.example2
 
 class Client(var name: String, var balanceAccount: Float) {
     fun consign(value:Float){

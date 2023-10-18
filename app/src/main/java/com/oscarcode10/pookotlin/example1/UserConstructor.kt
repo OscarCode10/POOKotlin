@@ -1,4 +1,4 @@
-package com.oscarcode10.pookotlin
+package com.oscarcode10.pookotlin.example1
 
 class UserConstructor constructor(name:String, lastName:String, age:Int, email:String, pswd:String){
     var name: String=name

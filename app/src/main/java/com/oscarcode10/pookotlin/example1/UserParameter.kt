@@ -1,4 +1,4 @@
-package com.oscarcode10.pookotlin
+package com.oscarcode10.pookotlin.example1
 
 class UserParameter(var name: String, var lastName: String, var age: Int, var email: String, var pswd: String) {
 

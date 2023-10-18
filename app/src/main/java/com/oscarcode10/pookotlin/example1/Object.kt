@@ -1,4 +1,7 @@
-package com.oscarcode10.pookotlin
+package com.oscarcode10.pookotlin.example1
+
+import com.oscarcode10.pookotlin.example1.UserConstructor
+import com.oscarcode10.pookotlin.example1.UserParameter
 
 fun main() {
     /*val user1: User

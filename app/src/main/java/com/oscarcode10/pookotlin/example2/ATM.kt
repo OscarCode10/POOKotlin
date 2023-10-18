@@ -1,4 +1,4 @@
-package com.oscarcode10.pookotlin
+package com.oscarcode10.pookotlin.example2
 
 class ATM {
     val client1: Client = Client("Oscar", 100000f)

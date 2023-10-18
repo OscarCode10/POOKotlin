@@ -1,4 +1,4 @@
-package com.oscarcode10.pookotlin
+package com.oscarcode10.pookotlin.example1
 
 class User {
     var name:String=""
